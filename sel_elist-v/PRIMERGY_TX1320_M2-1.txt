@@ -1,0 +1,41 @@
+SEL Record ID          : 000a
+ Record Type           : 02
+ Timestamp             : 05/16/2016 14:37:17
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 0001
+ Record Type           : 02
+ Timestamp             : 05/30/2016 14:04:06
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0002
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 05/30/2016 14:04:06
+ Manufactacturer ID    : 000137
+ OEM Defined           : 0054484c5700 [.THLW.]
+
+SEL Record ID          : 0003
+ Record Type           : 02
+ Timestamp             : 05/30/2016 14:30:16
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed

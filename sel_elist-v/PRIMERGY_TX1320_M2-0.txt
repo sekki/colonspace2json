@@ -1,0 +1,4206 @@
+SEL Record ID          : 00a9
+ Record Type           : 02
+ Timestamp             : 05/21/2018 03:02:24
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00aa
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 05/21/2018 03:02:24
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00bb36025b00 [....[.]
+
+SEL Record ID          : 00ab
+ Record Type           : 02
+ Timestamp             : 05/28/2018 04:18:16
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00ac
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 05/28/2018 04:18:16
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00ad
+ Record Type           : 02
+ Timestamp             : 05/28/2018 04:20:46
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00ae
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 05/28/2018 04:20:46
+ Manufactacturer ID    : 000137
+ OEM Defined           : 0073830b5b00 [.s..[.]
+
+SEL Record ID          : 00af
+ Record Type           : 02
+ Timestamp             : 06/18/2018 03:01:20
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00b0
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 06/18/2018 03:01:20
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00ff00008000 [......]
+
+SEL Record ID          : 00b1
+ Record Type           : 02
+ Timestamp             : 06/18/2018 03:02:24
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00b2
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 06/18/2018 03:02:24
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00bc20275b00 [....[.]
+
+SEL Record ID          : 00b3
+ Record Type           : 02
+ Timestamp             : 06/18/2018 04:23:49
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00b4
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 06/18/2018 04:23:50
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00b5
+ Record Type           : 02
+ Timestamp             : 06/18/2018 04:26:28
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00b6
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 06/18/2018 04:26:28
+ Manufactacturer ID    : 000137
+ OEM Defined           : 004a34275b00 [.J..[.]
+
+SEL Record ID          : 00b7
+ Record Type           : 02
+ Timestamp             : 07/16/2018 03:02:25
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00b8
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 07/16/2018 03:02:25
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00ff00008000 [......]
+
+SEL Record ID          : 00b9
+ Record Type           : 02
+ Timestamp             : 07/16/2018 03:03:15
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00ba
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 07/16/2018 03:03:15
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00ef0a4c5b00 [...L[.]
+
+SEL Record ID          : 00bb
+ Record Type           : 02
+ Timestamp             : 07/22/2018 20:04:09
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Power Unit
+ Sensor Number         : 22
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 04ffff
+ Description           : AC lost
+
+SEL Record ID          : 00bc
+ Record Type           : 02
+ Timestamp             : 07/22/2018 20:06:19
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8002ff
+ Description           : Transition to Running
+
+SEL Record ID          : 00bd
+ Record Type           : 02
+ Timestamp             : 07/22/2018 20:07:45
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00be
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 07/22/2018 20:07:45
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000ce4545b00 [...T[.]
+
+SEL Record ID          : 00bf
+ Record Type           : 02
+ Timestamp             : 07/23/2018 04:32:42
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00c0
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 07/23/2018 04:32:42
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00c1
+ Record Type           : 02
+ Timestamp             : 07/23/2018 04:34:29
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00c2
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 07/23/2018 04:34:29
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00d05a555b00 [..ZU[.]
+
+SEL Record ID          : 00c3
+ Record Type           : 02
+ Timestamp             : 08/03/2018 11:24:40
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Management Subsys Health
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8100fe
+ Description           : Controller access degraded or unavailable
+
+SEL Record ID          : 00c4
+ Record Type           : 02
+ Timestamp             : 08/20/2018 03:01:52
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00c5
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 08/20/2018 03:01:52
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00ff00008000 [......]
+
+SEL Record ID          : 00c6
+ Record Type           : 02
+ Timestamp             : 08/20/2018 03:02:48
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00c7
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 08/20/2018 03:02:48
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00542f7a5b00 [.T.z[.]
+
+SEL Record ID          : 00c8
+ Record Type           : 02
+ Timestamp             : 08/27/2018 04:07:59
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00c9
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 08/27/2018 04:08:00
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00ca
+ Record Type           : 02
+ Timestamp             : 08/27/2018 04:10:16
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00cb
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 08/27/2018 04:10:16
+ Manufactacturer ID    : 000137
+ OEM Defined           : 007f79835b00 [..y.[.]
+
+SEL Record ID          : 00cc
+ Record Type           : 02
+ Timestamp             : 10/08/2018 04:26:48
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00cd
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 10/08/2018 04:26:48
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00ce
+ Record Type           : 02
+ Timestamp             : 10/08/2018 04:27:50
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00cf
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 10/08/2018 04:27:50
+ Manufactacturer ID    : 000137
+ OEM Defined           : 009bdcba5b00 [....[.]
+
+SEL Record ID          : 00d0
+ Record Type           : 02
+ Timestamp             : 10/13/2018 08:07:33
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Power Unit
+ Sensor Number         : 22
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 04ffff
+ Description           : AC lost
+
+SEL Record ID          : 00d1
+ Record Type           : 02
+ Timestamp             : 10/13/2018 08:44:19
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8002ff
+ Description           : Transition to Running
+
+SEL Record ID          : 00d2
+ Record Type           : 02
+ Timestamp             : 10/13/2018 08:48:13
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00d3
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 10/13/2018 08:48:13
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00b3b0c15b00 [....[.]
+
+SEL Record ID          : 00d4
+ Record Type           : 02
+ Timestamp             : 11/19/2018 04:22:48
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00d5
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 11/19/2018 04:22:48
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00d6
+ Record Type           : 02
+ Timestamp             : 11/19/2018 04:24:47
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00d7
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 11/19/2018 04:24:47
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000a3bf25b00 [....[.]
+
+SEL Record ID          : 00d8
+ Record Type           : 02
+ Timestamp             : 11/22/2018 00:55:38
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00d9
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 11/22/2018 00:55:38
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00ff00008000 [......]
+
+SEL Record ID          : 00da
+ Record Type           : 02
+ Timestamp             : 11/22/2018 00:57:30
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00db
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 11/22/2018 00:57:30
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00f5fef55b00 [....[.]
+
+SEL Record ID          : 00dc
+ Record Type           : 02
+ Timestamp             : 11/22/2018 04:10:58
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00dd
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 11/22/2018 04:10:58
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00ff00008000 [......]
+
+SEL Record ID          : 00de
+ Record Type           : 02
+ Timestamp             : 11/22/2018 04:12:51
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00df
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 11/22/2018 04:12:51
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00be2cf65b00 [....[.]
+
+SEL Record ID          : 00e0
+ Record Type           : 02
+ Timestamp             : 12/17/2018 04:11:56
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00e1
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 12/17/2018 04:11:56
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00e2
+ Record Type           : 02
+ Timestamp             : 12/17/2018 04:13:09
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00e3
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 12/17/2018 04:13:09
+ Manufactacturer ID    : 000137
+ OEM Defined           : 005022175c00 [.P..\.]
+
+SEL Record ID          : 00e4
+ Record Type           : 02
+ Timestamp             : 12/24/2018 04:21:49
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00e5
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 12/24/2018 04:21:49
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00e6
+ Record Type           : 02
+ Timestamp             : 12/24/2018 04:24:20
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00e7
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 12/24/2018 04:24:20
+ Manufactacturer ID    : 000137
+ OEM Defined           : 003f5f205c00 [.._.\.]
+
+SEL Record ID          : 00e8
+ Record Type           : 02
+ Timestamp             : 01/21/2019 04:20:55
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00e9
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 01/21/2019 04:20:55
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00ea
+ Record Type           : 02
+ Timestamp             : 01/21/2019 04:22:52
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00eb
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/21/2019 04:22:52
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00e348455c00 [..HE\.]
+
+SEL Record ID          : 00ec
+ Record Type           : 02
+ Timestamp             : 03/11/2019 04:26:31
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00ed
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 03/11/2019 04:26:31
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00ee
+ Record Type           : 02
+ Timestamp             : 03/11/2019 04:26:30
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00ef
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 03/11/2019 04:26:30
+ Manufactacturer ID    : 000137
+ OEM Defined           : 0071e3855c00 [.q..\.]
+
+SEL Record ID          : 00f0
+ Record Type           : 02
+ Timestamp             : 04/01/2019 04:23:36
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00f1
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 04/01/2019 04:23:36
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00f2
+ Record Type           : 02
+ Timestamp             : 04/01/2019 04:25:44
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00f3
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 04/01/2019 04:25:44
+ Manufactacturer ID    : 000137
+ OEM Defined           : 008d92a15c00 [....\.]
+
+SEL Record ID          : 00f4
+ Record Type           : 02
+ Timestamp             : 04/22/2019 04:36:47
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 00f5
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 04/22/2019 04:36:47
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 00f6
+ Record Type           : 02
+ Timestamp             : 04/22/2019 04:38:45
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00f7
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 04/22/2019 04:38:45
+ Manufactacturer ID    : 000137
+ OEM Defined           : 005045bd5c00 [.PE.\.]
+
+SEL Record ID          : 00f8
+ Record Type           : 02
+ Timestamp             : 05/12/2019 23:08:07
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Power Unit
+ Sensor Number         : 22
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 04ffff
+ Description           : AC lost
+
+SEL Record ID          : 00f9
+ Record Type           : 02
+ Timestamp             : 05/12/2019 23:10:17
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8002ff
+ Description           : Transition to Running
+
+SEL Record ID          : 00fa
+ Record Type           : 02
+ Timestamp             : 05/12/2019 23:11:46
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00fb
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 05/12/2019 23:11:46
+ Manufactacturer ID    : 000137
+ OEM Defined           : 002aa8d85c00 [....\.]
+
+SEL Record ID          : 00fc
+ Record Type           : 02
+ Timestamp             : 05/13/2019 01:56:09
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Power Unit
+ Sensor Number         : 22
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 04ffff
+ Description           : AC lost
+
+SEL Record ID          : 00fd
+ Record Type           : 02
+ Timestamp             : 05/13/2019 01:58:18
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8002ff
+ Description           : Transition to Running
+
+SEL Record ID          : 00fe
+ Record Type           : 02
+ Timestamp             : 05/13/2019 02:00:40
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 00ff
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 05/13/2019 02:00:40
+ Manufactacturer ID    : 000137
+ OEM Defined           : 008ccfd85c00 [....\.]
+
+SEL Record ID          : 0100
+ Record Type           : 02
+ Timestamp             : 06/03/2019 04:23:16
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0101
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 06/03/2019 04:23:16
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 0102
+ Record Type           : 02
+ Timestamp             : 06/03/2019 04:24:36
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0103
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 06/03/2019 04:24:36
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00c5a0f45c00 [....\.]
+
+SEL Record ID          : 0104
+ Record Type           : 02
+ Timestamp             : 06/24/2019 04:24:49
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0105
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 06/24/2019 04:24:49
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 0106
+ Record Type           : 02
+ Timestamp             : 06/24/2019 04:27:01
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0107
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 06/24/2019 04:27:01
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00d650105d00 [..P.].]
+
+SEL Record ID          : 0108
+ Record Type           : 02
+ Timestamp             : 07/29/2019 04:29:18
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0109
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 07/29/2019 04:29:19
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 010a
+ Record Type           : 02
+ Timestamp             : 07/29/2019 04:31:04
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 010b
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 07/29/2019 04:31:04
+ Manufactacturer ID    : 000137
+ OEM Defined           : 0043763e5d00 [.Cv.].]
+
+SEL Record ID          : 010c
+ Record Type           : 02
+ Timestamp             : 09/23/2019 04:35:56
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 010d
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 09/23/2019 04:35:56
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 010e
+ Record Type           : 02
+ Timestamp             : 09/23/2019 04:35:58
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 010f
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 09/23/2019 04:35:58
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00a84b885d00 [..K.].]
+
+SEL Record ID          : 0110
+ Record Type           : 02
+ Timestamp             : 10/04/2019 12:10:59
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0111
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 10/04/2019 12:10:59
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000000008500 [......]
+
+SEL Record ID          : 0112
+ Record Type           : 02
+ Timestamp             : 10/04/2019 12:19:24
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0113
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 10/04/2019 12:19:24
+ Manufactacturer ID    : 000137
+ OEM Defined           : 008838975d00 [....].]
+
+SEL Record ID          : 0114
+ Record Type           : 02
+ Timestamp             : 10/21/2019 08:31:49
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0115
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 10/21/2019 08:31:49
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000000000500 [......]
+
+SEL Record ID          : 0116
+ Record Type           : 02
+ Timestamp             : 10/21/2019 10:39:06
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8002ff
+ Description           : Transition to Running
+
+SEL Record ID          : 0117
+ Record Type           : 02
+ Timestamp             : 10/21/2019 10:41:00
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0118
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 10/21/2019 10:41:00
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00388bad5d00 [....].]
+
+SEL Record ID          : 0119
+ Record Type           : 02
+ Timestamp             : 11/04/2019 04:11:43
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 011a
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 11/04/2019 04:11:43
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 011b
+ Record Type           : 02
+ Timestamp             : 11/04/2019 04:13:35
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 011c
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 11/04/2019 04:13:35
+ Manufactacturer ID    : 000137
+ OEM Defined           : 006aa5bf5d00 [.j..].]
+
+SEL Record ID          : 011d
+ Record Type           : 02
+ Timestamp             : 11/25/2019 04:15:07
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 011e
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 11/25/2019 04:15:07
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 011f
+ Record Type           : 02
+ Timestamp             : 11/25/2019 04:16:27
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0120
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 11/25/2019 04:16:27
+ Manufactacturer ID    : 000137
+ OEM Defined           : 009655db5d00 [..U.].]
+
+SEL Record ID          : 0121
+ Record Type           : 02
+ Timestamp             : 01/13/2020 04:26:18
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0122
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 01/13/2020 04:26:18
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 0123
+ Record Type           : 02
+ Timestamp             : 01/13/2020 04:29:28
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0124
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/13/2020 04:29:28
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00e1f11b5e00 [....^.]
+
+SEL Record ID          : 0125
+ Record Type           : 02
+ Timestamp             : 02/17/2020 04:12:02
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0126
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 02/17/2020 04:12:02
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200028000 [......]
+
+SEL Record ID          : 0127
+ Record Type           : 02
+ Timestamp             : 02/17/2020 04:13:58
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0128
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 02/17/2020 04:13:58
+ Manufactacturer ID    : 000137
+ OEM Defined           : 0000134a5e00 [...J^.]
+
+SEL Record ID          : 0129
+ Record Type           : 02
+ Timestamp             : 03/27/2020 12:09:07
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 012a
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 03/27/2020 12:09:07
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000000008500 [......]
+
+SEL Record ID          : 012b
+ Record Type           : 02
+ Timestamp             : 03/27/2020 12:42:46
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8002ff
+ Description           : Transition to Running
+
+SEL Record ID          : 012c
+ Record Type           : 02
+ Timestamp             : 03/27/2020 12:44:40
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 012d
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 03/27/2020 12:44:40
+ Manufactacturer ID    : 000137
+ OEM Defined           : 0033f57d5e00 [...}^.]
+
+SEL Record ID          : 012e
+ Record Type           : 02
+ Timestamp             : 06/25/2020 09:08:03
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 012f
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 06/25/2020 09:08:03
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000000000500 [......]
+
+SEL Record ID          : 0130
+ Record Type           : 02
+ Timestamp             : 07/01/2020 14:16:15
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8002ff
+ Description           : Transition to Running
+
+SEL Record ID          : 0131
+ Record Type           : 02
+ Timestamp             : 07/01/2020 14:22:24
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0132
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 07/01/2020 14:22:24
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00199bfc5e00 [....^.]
+
+SEL Record ID          : 0133
+ Record Type           : 02
+ Timestamp             : 07/01/2020 14:39:27
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0134
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 07/01/2020 14:39:27
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000000000500 [......]
+
+SEL Record ID          : 0135
+ Record Type           : 02
+ Timestamp             : 07/01/2020 14:41:56
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0136
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 07/01/2020 14:41:56
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00aea0fc5e00 [....^.]
+
+SEL Record ID          : 0137
+ Record Type           : 02
+ Timestamp             : 07/02/2020 16:21:56
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0138
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 07/02/2020 16:21:56
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000000000500 [......]
+
+SEL Record ID          : 0139
+ Record Type           : 02
+ Timestamp             : 09/06/2021 17:20:44
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8002ff
+ Description           : Transition to Running
+
+SEL Record ID          : 013a
+ Record Type           : 02
+ Timestamp             : 09/06/2021 17:39:24
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Power Unit
+ Sensor Number         : 22
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 04ffff
+ Description           : AC lost
+
+SEL Record ID          : 013b
+ Record Type           : 02
+ Timestamp             : 01/13/2022 10:43:44
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0fffff
+ Description           : 
+
+SEL Record ID          : 013c
+ Record Type           : 02
+ Timestamp             : 01/13/2022 10:56:31
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 013d
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/13/2022 10:56:31
+ Manufactacturer ID    : 000137
+ OEM Defined           : 005e05e06100 [.^..a.]
+
+SEL Record ID          : 013e
+ Record Type           : 02
+ Timestamp             : 01/13/2022 11:32:35
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 013f
+ Record Type           : 02
+ Timestamp             : 01/13/2022 11:38:17
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0140
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/13/2022 11:38:17
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00280fe06100 [....a.]
+
+SEL Record ID          : 0141
+ Record Type           : 02
+ Timestamp             : 01/13/2022 11:47:24
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 0142
+ Record Type           : 02
+ Timestamp             : 01/13/2022 11:54:41
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 0143
+ Record Type           : 02
+ Timestamp             : 01/13/2022 11:59:18
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0144
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/13/2022 11:59:18
+ Manufactacturer ID    : 000137
+ OEM Defined           : 001514e06100 [....a.]
+
+SEL Record ID          : 0145
+ Record Type           : 02
+ Timestamp             : 01/14/2022 18:40:49
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Power Unit
+ Sensor Number         : 22
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 06ffff
+ Description           : Failure detected
+
+SEL Record ID          : 0146
+ Record Type           : 02
+ Timestamp             : 01/14/2022 18:40:34
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Power Unit
+ Sensor Number         : 22
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 04ffff
+ Description           : AC lost
+
+SEL Record ID          : 0147
+ Record Type           : 02
+ Timestamp             : 01/14/2022 18:47:01
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0148
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/14/2022 18:47:01
+ Manufactacturer ID    : 000137
+ OEM Defined           : 0024c5e16100 [....a.]
+
+SEL Record ID          : 0149
+ Record Type           : 02
+ Timestamp             : 01/17/2022 09:49:52
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 014a
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/17/2022 09:49:52
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00bd3be56100 [....a.]
+
+SEL Record ID          : 014b
+ Record Type           : 02
+ Timestamp             : 01/17/2022 09:50:37
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 014c
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 01/17/2022 09:50:37
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000300028000 [......]
+
+SEL Record ID          : 014d
+ Record Type           : 02
+ Timestamp             : 01/17/2022 09:52:14
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 014e
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/17/2022 09:52:14
+ Manufactacturer ID    : 000137
+ OEM Defined           : 004c3ce56100 [.L..a.]
+
+SEL Record ID          : 014f
+ Record Type           : 02
+ Timestamp             : 01/17/2022 10:45:32
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0150
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 01/17/2022 10:45:33
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000300028000 [......]
+
+SEL Record ID          : 0151
+ Record Type           : 02
+ Timestamp             : 01/17/2022 10:47:09
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0152
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/17/2022 10:47:09
+ Manufactacturer ID    : 000137
+ OEM Defined           : 002b49e56100 [..I.a.]
+
+SEL Record ID          : 0153
+ Record Type           : 02
+ Timestamp             : 01/17/2022 11:25:05
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0154
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 01/17/2022 11:25:05
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00ff00050000 [......]
+
+SEL Record ID          : 0155
+ Record Type           : 02
+ Timestamp             : 01/17/2022 11:25:08
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 0156
+ Record Type           : 02
+ Timestamp             : 01/17/2022 11:27:30
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 0157
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/17/2022 11:27:30
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00a052e56100 [..R.a.]
+
+SEL Record ID          : 0158
+ Record Type           : 02
+ Timestamp             : 01/17/2022 11:30:35
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0159
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 01/17/2022 11:30:35
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200040000 [......]
+
+SEL Record ID          : 015a
+ Record Type           : 02
+ Timestamp             : 01/17/2022 11:32:47
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : C: boot completed
+
+SEL Record ID          : 015b
+ Record Type           : dc  (OEM timestamped)
+ Timestamp             : 01/17/2022 11:32:47
+ Manufactacturer ID    : 000137
+ OEM Defined           : 00dd53e56100 [..S.a.]
+
+SEL Record ID          : 015c
+ Record Type           : 02
+ Timestamp             : 01/17/2022 11:07:58
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 015d
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 01/17/2022 11:07:58
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000300028000 [......]
+
+SEL Record ID          : 015e
+ Record Type           : 02
+ Timestamp             : 01/17/2022 11:33:21
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System Event
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : c500ff
+ Description           : Timestamp Clock Sync
+
+SEL Record ID          : 015f
+ Record Type           : 02
+ Timestamp             : 01/17/2022 11:08:53
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System Event
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : c580ff
+ Description           : Timestamp Clock Sync
+
+SEL Record ID          : 0160
+ Record Type           : 02
+ Timestamp             : 01/17/2022 11:24:30
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Critical Stop
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 03ffff
+ Description           : OS graceful shutdown
+
+SEL Record ID          : 0161
+ Record Type           : dd  (OEM timestamped)
+ Timestamp             : 01/17/2022 11:24:30
+ Manufactacturer ID    : 000137
+ OEM Defined           : 000200040000 [......]
+
+SEL Record ID          : 0162
+ Record Type           : 02
+ Timestamp             : 01/30/2022 00:31:17
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 070000
+ Description           : Installation started
+
+SEL Record ID          : 0163
+ Record Type           : 02
+ Timestamp             : 01/30/2022 00:55:10
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 070000
+ Description           : Installation started
+
+SEL Record ID          : 0164
+ Record Type           : 02
+ Timestamp             : 01/30/2022 01:06:24
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System Event
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : c500ff
+ Description           : Timestamp Clock Sync
+
+SEL Record ID          : 0165
+ Record Type           : 02
+ Timestamp             : 01/29/2022 16:06:53
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System Event
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : c580ff
+ Description           : Timestamp Clock Sync
+
+SEL Record ID          : 0166
+ Record Type           : 02
+ Timestamp             : 01/29/2022 16:11:32
+ Generator ID          : 0041
+ EvM Revision          : 04
+ Sensor Type           : OS Boot
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 080000
+ Description           : Installation completed
+
+SEL Record ID          : 0167
+ Record Type           : 02
+ Timestamp             : 05/27/2022 21:11:45
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : 59
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 00ffff
+ Description           : 
+
+SEL Record ID          : 0168
+ Record Type           : 02
+ Timestamp             : 05/27/2022 21:11:45
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : 59
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 01ffff
+ Description           : 
+
+SEL Record ID          : 0169
+ Record Type           : 02
+ Timestamp             : 05/28/2022 17:27:26
+ Generator ID          : 0001
+ EvM Revision          : 04
+ Sensor Type           : POST Memory Resize
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 000000
+ Description           : 
+
+SEL Record ID          : 016a
+ Record Type           : 02
+ Timestamp             : 05/28/2022 17:27:26
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0fffff
+ Description           : 
+
+SEL Record ID          : 016b
+ Record Type           : 02
+ Timestamp             : 05/28/2022 17:28:18
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 016c
+ Record Type           : 02
+ Timestamp             : 05/28/2022 17:28:18
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 016d
+ Record Type           : 02
+ Timestamp             : 05/28/2022 17:36:36
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 016e
+ Record Type           : 02
+ Timestamp             : 05/28/2022 17:36:36
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 016f
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:13:43
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0170
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:13:43
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0171
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:27:35
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0172
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:27:35
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0173
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:28:03
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 0174
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:32:26
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0175
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:32:27
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0176
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:33:51
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 0177
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:48:49
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0178
+ Record Type           : 02
+ Timestamp             : 05/29/2022 12:48:49
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0179
+ Record Type           : 02
+ Timestamp             : 05/29/2022 13:19:16
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 017a
+ Record Type           : 02
+ Timestamp             : 05/29/2022 13:19:16
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 017b
+ Record Type           : 02
+ Timestamp             : 05/29/2022 13:40:38
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8015ff
+ Description           : Transition to Running
+
+SEL Record ID          : 017c
+ Record Type           : 02
+ Timestamp             : 05/29/2022 13:41:42
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 017d
+ Record Type           : 02
+ Timestamp             : 05/29/2022 13:41:42
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 017e
+ Record Type           : 02
+ Timestamp             : 05/29/2022 13:52:48
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 017f
+ Record Type           : 02
+ Timestamp             : 05/29/2022 13:52:48
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0180
+ Record Type           : 02
+ Timestamp             : 05/29/2022 14:00:34
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0181
+ Record Type           : 02
+ Timestamp             : 05/29/2022 14:00:34
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0182
+ Record Type           : 02
+ Timestamp             : 05/29/2022 14:23:30
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0183
+ Record Type           : 02
+ Timestamp             : 05/29/2022 14:23:30
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0184
+ Record Type           : 02
+ Timestamp             : 06/02/2022 13:50:06
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0185
+ Record Type           : 02
+ Timestamp             : 06/02/2022 13:50:06
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0186
+ Record Type           : 02
+ Timestamp             : 06/02/2022 14:00:10
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 0187
+ Record Type           : 02
+ Timestamp             : 06/02/2022 14:23:05
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0188
+ Record Type           : 02
+ Timestamp             : 06/02/2022 14:23:05
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0189
+ Record Type           : 02
+ Timestamp             : 06/02/2022 23:41:57
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 018a
+ Record Type           : 02
+ Timestamp             : 06/02/2022 23:41:57
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 018b
+ Record Type           : 02
+ Timestamp             : 06/02/2022 23:58:40
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 018c
+ Record Type           : 02
+ Timestamp             : 06/02/2022 23:58:40
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 018d
+ Record Type           : 02
+ Timestamp             : 06/03/2022 16:53:09
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 018e
+ Record Type           : 02
+ Timestamp             : 06/03/2022 17:04:27
+ Generator ID          : 0001
+ EvM Revision          : 04
+ Sensor Type           : System Firmwares
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : c00d00
+ Description           : CPU speed mismatch failure
+
+SEL Record ID          : 018f
+ Record Type           : 02
+ Timestamp             : 06/03/2022 17:04:51
+ Generator ID          : 0001
+ EvM Revision          : 04
+ Sensor Type           : System Firmwares
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : c00d00
+ Description           : CPU speed mismatch failure
+
+SEL Record ID          : 0190
+ Record Type           : 02
+ Timestamp             : 06/03/2022 17:05:46
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0191
+ Record Type           : 02
+ Timestamp             : 06/03/2022 17:05:46
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0192
+ Record Type           : 02
+ Timestamp             : 06/03/2022 17:10:09
+ Generator ID          : 0001
+ EvM Revision          : 04
+ Sensor Type           : System Firmwares
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : c00d00
+ Description           : CPU speed mismatch failure
+
+SEL Record ID          : 0193
+ Record Type           : 02
+ Timestamp             : 06/03/2022 17:12:36
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0194
+ Record Type           : 02
+ Timestamp             : 06/03/2022 17:12:36
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0195
+ Record Type           : 02
+ Timestamp             : 06/03/2022 17:27:35
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0196
+ Record Type           : 02
+ Timestamp             : 06/03/2022 17:27:35
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0197
+ Record Type           : 02
+ Timestamp             : 06/04/2022 02:51:26
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0198
+ Record Type           : 02
+ Timestamp             : 06/04/2022 02:51:27
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0199
+ Record Type           : 02
+ Timestamp             : 06/04/2022 16:26:27
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 019a
+ Record Type           : 02
+ Timestamp             : 06/04/2022 16:26:28
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 019b
+ Record Type           : 02
+ Timestamp             : 06/04/2022 17:07:17
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 019c
+ Record Type           : 02
+ Timestamp             : 06/04/2022 17:07:17
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 019d
+ Record Type           : 02
+ Timestamp             : 06/04/2022 17:21:47
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 019e
+ Record Type           : 02
+ Timestamp             : 06/04/2022 17:21:47
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 019f
+ Record Type           : 02
+ Timestamp             : 06/04/2022 17:39:50
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01a0
+ Record Type           : 02
+ Timestamp             : 06/04/2022 17:39:50
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01a1
+ Record Type           : 02
+ Timestamp             : 06/04/2022 17:55:56
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01a2
+ Record Type           : 02
+ Timestamp             : 06/04/2022 17:55:57
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01a3
+ Record Type           : 02
+ Timestamp             : 06/05/2022 08:58:24
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System ACPI Power State
+ Sensor Number         : 64
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0affff
+ Description           : S5: entered by override
+
+SEL Record ID          : 01a4
+ Record Type           : 02
+ Timestamp             : 06/05/2022 09:07:07
+ Generator ID          : 0001
+ EvM Revision          : 04
+ Sensor Type           : POST Memory Resize
+ Sensor Number         : 00
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 000000
+ Description           : 
+
+SEL Record ID          : 01a5
+ Record Type           : 02
+ Timestamp             : 06/05/2022 09:07:08
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 0fffff
+ Description           : 
+
+SEL Record ID          : 01a6
+ Record Type           : 02
+ Timestamp             : 06/05/2022 09:07:56
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01a7
+ Record Type           : 02
+ Timestamp             : 06/05/2022 09:07:56
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01a8
+ Record Type           : 02
+ Timestamp             : 06/05/2022 09:07:56
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01a9
+ Record Type           : 02
+ Timestamp             : 06/05/2022 09:31:13
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01aa
+ Record Type           : 02
+ Timestamp             : 06/05/2022 09:31:13
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01ab
+ Record Type           : 02
+ Timestamp             : 06/05/2022 09:31:13
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01ac
+ Record Type           : 02
+ Timestamp             : 06/09/2022 14:19:23
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01ad
+ Record Type           : 02
+ Timestamp             : 06/09/2022 14:19:23
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01ae
+ Record Type           : 02
+ Timestamp             : 06/09/2022 14:19:23
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01af
+ Record Type           : 02
+ Timestamp             : 06/11/2022 04:57:08
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01b0
+ Record Type           : 02
+ Timestamp             : 06/11/2022 04:57:08
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01b1
+ Record Type           : 02
+ Timestamp             : 06/11/2022 04:57:08
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01b2
+ Record Type           : 02
+ Timestamp             : 06/11/2022 06:42:09
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8015ff
+ Description           : Transition to Running
+
+SEL Record ID          : 01b3
+ Record Type           : 02
+ Timestamp             : 06/11/2022 06:43:27
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01b4
+ Record Type           : 02
+ Timestamp             : 06/11/2022 06:43:27
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01b5
+ Record Type           : 02
+ Timestamp             : 06/11/2022 06:43:27
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01b6
+ Record Type           : 02
+ Timestamp             : 06/11/2022 07:02:45
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01b7
+ Record Type           : 02
+ Timestamp             : 06/11/2022 07:02:45
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01b8
+ Record Type           : 02
+ Timestamp             : 06/11/2022 07:02:45
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01b9
+ Record Type           : 02
+ Timestamp             : 06/11/2022 07:18:20
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01ba
+ Record Type           : 02
+ Timestamp             : 06/11/2022 07:18:20
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01bb
+ Record Type           : 02
+ Timestamp             : 06/11/2022 07:18:20
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01bc
+ Record Type           : 02
+ Timestamp             : 06/11/2022 11:18:17
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8015ff
+ Description           : Transition to Running
+
+SEL Record ID          : 01bd
+ Record Type           : 02
+ Timestamp             : 06/11/2022 11:19:05
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01be
+ Record Type           : 02
+ Timestamp             : 06/11/2022 11:19:05
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01bf
+ Record Type           : 02
+ Timestamp             : 06/11/2022 11:19:05
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01c0
+ Record Type           : 02
+ Timestamp             : 06/11/2022 11:27:22
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01c1
+ Record Type           : 02
+ Timestamp             : 06/11/2022 11:27:22
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01c2
+ Record Type           : 02
+ Timestamp             : 06/11/2022 11:27:22
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01c3
+ Record Type           : 02
+ Timestamp             : 06/11/2022 13:36:53
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01c4
+ Record Type           : 02
+ Timestamp             : 06/11/2022 13:36:53
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 01c5
+ Record Type           : 02
+ Timestamp             : 06/11/2022 13:36:53
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 01c6
+ Record Type           : 02
+ Timestamp             : 06/11/2022 13:47:02
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 01c7
+ Record Type           : 02
+ Timestamp             : 06/11/2022 13:47:02
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 000a
+ Record Type           : 02
+ Timestamp             : 06/11/2022 13:47:02
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0001
+ Record Type           : 02
+ Timestamp             : 06/11/2022 16:29:44
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8015ff
+ Description           : Transition to Running
+
+SEL Record ID          : 0002
+ Record Type           : 02
+ Timestamp             : 06/11/2022 16:30:32
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 0003
+ Record Type           : 02
+ Timestamp             : 06/11/2022 16:30:32
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0004
+ Record Type           : 02
+ Timestamp             : 06/11/2022 16:30:32
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0005
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:07:52
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 0006
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:07:52
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0007
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:07:52
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0008
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:18:53
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 8015ff
+ Description           : Transition to Running
+
+SEL Record ID          : 0009
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:19:41
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 000b
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:19:41
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 000c
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:19:41
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 000d
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:27:52
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 000e
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:27:52
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 000f
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:27:52
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0010
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:33:51
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 0011
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:33:51
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0012
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:33:51
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0013
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:39:57
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 0014
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:39:57
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0015
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:39:57
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0016
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:51:05
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 0017
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:51:05
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 0018
+ Record Type           : 02
+ Timestamp             : 06/12/2022 04:51:05
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0019
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:06
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 001a
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:06
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 001b
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:06
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 001c
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:06
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 001d
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 001e
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 001f
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0020
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0021
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0022
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0023
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:08
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0024
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:08
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0025
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:08
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0026
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:08
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0027
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:08
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0028
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:08
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0029
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:09
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 002a
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:09
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 002b
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:09
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 002c
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:09
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 002d
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:10
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 002e
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:10
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 002f
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:10
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0030
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:10
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0031
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:10
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0032
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:10
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0033
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0034
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0035
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0036
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0037
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0038
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0039
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 003a
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 003b
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:12
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 003c
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:12
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 003d
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:12
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 003e
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:12
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 003f
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:12
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0040
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:12
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0041
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:13
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0042
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:13
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0043
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:13
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0044
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:13
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0045
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:13
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0046
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:13
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0047
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:13
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0048
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:13
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0049
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:13
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 004a
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:14
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 004b
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:14
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 004c
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:14
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 004d
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:14
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 004e
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:14
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 004f
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:15
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0050
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:15
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0051
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:15
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0052
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:16
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0053
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:16
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0054
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:16
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0055
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:17
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0056
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:17
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0057
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:17
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0058
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:17
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0059
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:18
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 005a
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:12:18
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 005b
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:12:41
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Processor
+ Sensor Number         : 1f
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 00ffff
+ Description           : IERR
+
+SEL Record ID          : 005c
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:12:45
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 800cff
+ Description           : Transition to Running
+
+SEL Record ID          : 005d
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:13:34
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 005e
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:13:34
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 005f
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:13:34
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 0060
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:23:59
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0061
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:00
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0062
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:00
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0063
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:00
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0064
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:00
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0065
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:00
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0066
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:00
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0067
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:00
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0068
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:01
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0069
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:01
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 006a
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:01
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 006b
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:01
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 006c
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:01
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 006d
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:01
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 006e
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:02
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 006f
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:02
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0070
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:02
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0071
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:02
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0072
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:02
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0073
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:02
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0074
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:02
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0075
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:03
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0076
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:03
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0077
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:03
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0078
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:03
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0079
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:03
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 007a
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:03
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 007b
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:03
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 007c
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:04
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 007d
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:04
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 007e
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:04
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 007f
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:04
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0080
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:04
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0081
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:04
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0082
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:05
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0083
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:05
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0084
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:05
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0085
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:05
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0086
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:05
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0087
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:05
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0088
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:05
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0089
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:06
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 008a
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:06
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 008b
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:06
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 008c
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:06
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 008d
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:06
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 008e
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 008f
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0090
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0091
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:07
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0092
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:08
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0093
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:08
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0094
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:09
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0095
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:09
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0096
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:09
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0097
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:09
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 0098
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:10
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 0099
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:10
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 009a
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 009b
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 009c
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1030f000009 [......]
+
+SEL Record ID          : 009d
+ Record Type           : c5  (OEM timestamped)
+ Timestamp             : 06/12/2022 05:24:11
+ Manufactacturer ID    : 002880
+ OEM Defined           : b1040e000009 [......]
+
+SEL Record ID          : 009e
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:24:34
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Processor
+ Sensor Number         : 1f
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 00ffff
+ Description           : IERR
+
+SEL Record ID          : 009f
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:24:36
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Generic Discrete
+ Event Direction       : Assertion Event
+ Event Data            : 800cff
+ Description           : Transition to Running
+
+SEL Record ID          : 00a0
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:25:25
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 00a1
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:25:25
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 00a2
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:25:25
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 00a3
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:45:03
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 00a4
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:45:03
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 00a5
+ Record Type           : 02
+ Timestamp             : 06/12/2022 05:45:03
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+
+SEL Record ID          : 00a6
+ Record Type           : 02
+ Timestamp             : 06/13/2022 00:30:26
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00000
+ Description           : 
+
+SEL Record ID          : 00a7
+ Record Type           : 02
+ Timestamp             : 06/13/2022 00:30:26
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00001
+ Description           : 
+
+SEL Record ID          : 00a8
+ Record Type           : 02
+ Timestamp             : 06/13/2022 00:30:26
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : Unknown
+ Sensor Number         : fe
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data            : a00003
+ Description           : 
+

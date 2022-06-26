@@ -1,2 +1,2 @@
-# colonspace2json
-colons space to json
+# colon2json
+コロン区切りのデータをjsonに変換するやつ
